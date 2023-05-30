@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Aa New Hope", 
+        "episode_id": 4, 
+        "img": "https://kbimages1-a.akamaihd.net/Images/194c814f-7c93-499e-adde-6447e4d6fe39/255/400/False/image.jpg", 
+        "url": "https://swapi.dev/api/films/1/"
+    }, 
+    {
+        "title": "The Empire Strikes Back", 
+        "episode_id": 5, 
+        "img": "https://m.media-amazon.com/images/I/51rHfst51TL._AC_SY1000_.jpg",
+        "url": "https://swapi.dev/api/films/2/"
+    }, 
+    {
+        "title": "Return of the Jedi", 
+        "episode_id": 6, 
+        "img": "https://m.media-amazon.com/images/I/51xQHKh6wwL._AC_SY1000_.jpg", 
+        "url": "https://swapi.dev/api/films/3/"
+    }, 
+    {
+        "title": "The Phantom Menace", 
+        "episode_id": 1, 
+        "img": "https://img-pttavm.mncdn.com/pimages/592/091/514/620b5ff7564bf.jpg?v=201910111528", 
+        "url": "https://swapi.dev/api/films/4/"
+    }, 
+    {
+        "title": "Attack of the Clones", 
+        "episode_id": 2, 
+        "img": "https://m.media-amazon.com/images/I/512K7WkyZKL._AC_SY1000_.jpg", 
+        "url": "https://swapi.dev/api/films/5/"
+    }, 
+    {
+        "title": "Revenge of the Sith", 
+        "episode_id": 3, 
+       "img": "https://kbimages1-a.akamaihd.net/50a779f5-b8a1-4deb-b0ab-254083eb2df1/353/569/90/False/revenge-of-the-sith-star-wars-episode-iii.jpg", 
+        "url": "https://swapi.dev/api/films/6/"
+    },
+    {
+        "episode_id": 7,
+        "title": "The flash",
+        "overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BZjlkM2RjODgtNjRlYS00MDNjLTkxMzYtOWM4NjAwZTY2MjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+      },
+      {
+        "episode_id": 8,
+        "title": "Interstellar",
+        "overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      },
+      {
+        "episode_id": 9,
+        "title": "Arrow",
+        "overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BMTI0NTMwMDgtYTMzZC00YmJhLTg4NzMtMTc1NjI4MWY4NmQ4XkEyXkFqcGdeQXVyNTY3MTYzOTA@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "episode_id": 10,
+        "title": "Superman",
+       " overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_.jpg"
+      },
+      {
+        "episode_id": 11,
+        "title": "Project Power",
+        "overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg"
+      },
+      {
+        "episode_id": 12,
+        "title": "Rogue",
+        "overview":
+          "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "img":
+          "https://m.media-amazon.com/images/M/MV5BZWUyY2M2M2UtMGI1NC00ZjBmLWI5NDItYjQ1MThjNzgwMjhmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg"
+      }
+]
